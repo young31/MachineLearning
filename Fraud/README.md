@@ -1,6 +1,6 @@
 # IEEE-fraud detection kaggle competition
 
-## breaf memo
+## brief memo
  - used model: tree(LGBM, XGBOOST)
    - catboost is not used because it has somewhat different hyper parameter
    - NN models(GAN, DNN etc.) are not useful for this competition
