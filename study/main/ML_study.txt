@@ -1,0 +1,31 @@
+인트로 0
+- 간단한 시각화 및 정리
+- CV!!!!
+- PCA
+
+비지도 1
+- 군집화(kmeans)
+
+지도(분류)
+- knn
+- logistic 2
+- svm 3
+- tree 4
+- NN 5
+
+correlated data
+- RNN 6
+
+
+bagging -RF추가
+- voting
+
+boosting 
+
+NN
+
+
+## k-fold 실습해보기
+## 좋은 분류기 만들어보기 with titanic data
+### clustering과 결합하여 만들어 보는 것도 좋음!!
+
