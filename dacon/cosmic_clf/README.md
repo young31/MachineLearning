@@ -1,7 +1,7 @@
 # COSMIC_CLF
 
 - Public score: 0.35951 (62/682)
-- Total score: --
+- Total score: 44/690
 - 5% 까지 갔었는데 아쉬움 + 역시 feature engineering을 잘해야함
   - 특별한 eda없이 5%까지 간것은 자체로도 놀라운 경험이긴 하였음
 
