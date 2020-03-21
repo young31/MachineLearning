@@ -1,23 +1,20 @@
 # Table of Contents
 
-- [Dacon 월간 데이터 분석 - Starcraft2 승패예측](#dacon-------------starcraft2-----)
-    
-  + [대회 summary](#---summary)
-  * [Code Review](#code-review)
-    + [0) Intro](#0--intro)
-    + [1) FE1](#1--fe1)
-      - [자원](#--)
-      - [이벤트](#---)
-    + [2) FE1(img)](#2--fe1-img-)
-    + [3) FE2](#3--fe2)
-    + [4) FE2(cum)](#4--fe2-cum-)
-    + [5) utils](#5--utils)
-      - [build_lgb](#build-lgb)
-      - [EDA](#eda)
-      - [wr](#wr)
-  * [Outtro](#outtro)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+- [Dacon 월간 데이터 분석 - Starcraft2 승패예측](#dacon-월간-데이터-분석---starcraft2-승패예측)
+    - [대회 summary](#대회-summary)
+- [Code Review](#code-review)
+    - [0) Intro](#0-intro)
+    - [1) FE1](#1-fe1)
+        - [자원](#자원)
+        - [이벤트](#이벤트)
+    - [2) FE1(img)](#2-fe1img)
+    - [3) FE2](#3-fe2)
+    - [4) FE2(cum)](#4-fe2cum)
+    - [5) utils](#5-utils)
+        - [build_lgb](#build_lgb)
+        - [EDA](#eda)
+        - [wr](#wr)
+- [Outtro](#outtro)
 
 # Dacon 월간 데이터 분석 - Starcraft2 승패예측
 
