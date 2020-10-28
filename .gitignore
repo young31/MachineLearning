@@ -1,6 +1,6 @@
 .idea
-.viscode
-.viscode/*
+.vscode
+.vscode/*
 sub/*
 *.zip
 *.7z
