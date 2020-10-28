@@ -1,13 +1,16 @@
 .idea
 .vscode
 .vscode/*
+*/.vscode/*
 sub/*
+*/sub/*
 *.zip
 *.7z
 *.csv
 *.h5f
 */.vscode
 *.log
+*.h5
 # Created by https://www.gitignore.io/api/python,windows,jupyternotebooks
 # Edit at https://www.gitignore.io/?templates=python,windows,jupyternotebooks
 
